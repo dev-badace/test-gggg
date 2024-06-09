@@ -1,0 +1,20 @@
+{
+  "name": "resocket-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "resocket dev",
+    "deploy": "resocket deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@resocket/cli": "^0.0.2",
+    "@resocket/server": "^0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "resocket-typescript",
+  "main": "./server.ts",
+  "rooms": ["MyServer"],
+  "compatibility_flags": ["nodejs_compat"],
+  "migrationMode": "auto"
+}
